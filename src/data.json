@@ -1,0 +1,23 @@
+[
+  {
+    "id": "crash3",
+    "name": "Crash Bandicoot 3",
+    "description": "Juego ps1",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWNhMzM2MDQtMDJhMy00NjVlLWE4MTktZjM2ZjJiNTZlZGVhXkEyXkFqcGc@._V1_.jpg",
+    "price": 59.99
+  },
+  {
+    "id": "crash",
+    "name": "Crash Bandicoot",
+    "description": "Juego ps4",
+    "image": "https://assets.nintendo.com/image/upload/q_auto/f_auto/ncom/software/switch/70010000002090/ecfc64f339579b17ed8d12d5bdb4acd0cad2811cb2ff7dd0a02ce7e512c2d26a",
+    "price": 49.99
+  },
+  {
+    "id": "spyro",
+    "name": "Spyro The Dragon",
+    "description": "Juego ps1",
+    "image": "https://i.3djuegos.com/juegos/7004/spyro_the_dragon/fotos/ficha/spyro_the_dragon-1725665.webp",
+    "price": 39.99
+  }
+]
